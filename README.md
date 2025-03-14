@@ -38,8 +38,9 @@ You can fork the repository by clicking on Fork, then you can customize your for
 
 - Before you can play a MIDI, you need to add soundfonts to the synthesizer by going to `Menu -> Settings -> SoundFonts`
 - To open a MIDI, click the folder icon on the top left, or press `Ctrl+O` on your keyboard
-- To find out about other keyboard shortcuts, head to `Menu -> Shortcuts`
-
+- To play, click the play button (or press `spacebar`)
+- To pause, click the pause button (or press `spacebar`)
+- Find out more of shortcuts by clicking on `Shortcuts`
 ## Screenshot
 
 <p align="center"><img src="/assets/screenshot.png"/></p>
