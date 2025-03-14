@@ -32,7 +32,8 @@ You can build Wasabi yourself by following these steps:
 - Inside the project directory run the following command to build Wasabi: `cargo build --release`
     - Optionally you can add `RUSTFLAGS="-C target-cpu=native"` to your environment before compiling to optimize XSynth for your specific CPU
 - After the compilation is finished, you will find the binary under `./target/release`
-
+### Option C *(manual)
+You can fork the repository by clicking on Fork, then you can customize your forked repository.
 ## Usage
 
 - Before you can play a MIDI, you need to add soundfonts to the synthesizer by going to `Menu -> Settings -> SoundFonts`
